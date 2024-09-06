@@ -5,8 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baburalimalik&label=Profile%20views&color=0e75b6&style=flat" alt="baburalimalik" /> </p>
 
+- https://www.linkedin.com/in/babur-ali-a7869b225/
 - 📫 How to reach me **baburali1910@gmail.com**
-
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
